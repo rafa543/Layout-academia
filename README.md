@@ -1,54 +1,56 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/rafa543/Layout-academia/blob/main/readme_images/logo.png)
  
-## Name_of_the_project
+## Academia Fitness
  
-... Description
+Projeto feito para treina habilidades front-end como html, css, e javascript
  
  
 ## Technology 
  
-Here are the technologies used in this project.
- 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+* HTML
+* CSS
+* JavaScript
  
  
 ## Services Used
  
 * Github
-* ...
- 
- 
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
+
  
 ## How to use
  
-Here will be the images and descriptions. Principal content.
+### 1 - Header do site com uma chamada para ação.
+![Home Screen](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_1.jpg)
+
+### 2 - Agendar uma aula na academia.
+![Register Screen](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_2.jpg)
  
+### 3 - Introdução sobre a academia fitness. 
+![](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_3.jpg)
+
+###  - Todos os tipos de aulas que a academia fornece
+![](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_4.jpg)
+
+###  - Mais uma chamada pra ação
+![](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_5.jpg)
+
+###  - Treinadores da academia
+![](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_6.jpg)
+
+###  - Detalhes
+![](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_7.jpg)
+
+###  - Blogs e redes sociais
+![](https://github.com/rafa543/Layout-academia/blob/main/readme_images/Screenshot_8.jpg)
  
 ## Features
  
-  - Here will be the features.
+  - Um bom site para uma academia
  
  
 ## Links
- 
-  - Link of deployed application: (if has been deployed)
+
   - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
  
  
 ## Versioning
@@ -58,8 +60,7 @@ Here will be the images and descriptions. Principal content.
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **RAFAEL ARAUJO DE ARBEU**: @rafa543 (https://github.com/rafa543)
  
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+Obrigado por me visitar e boa codificação!
