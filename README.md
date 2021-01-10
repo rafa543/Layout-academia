@@ -1,9 +1,9 @@
 ![Logo of the project](https://github.com/rafa543/Layout-academia/blob/main/readme_images/logo.png)
  
 ## Academia Fitness
- 
 Projeto feito para treina habilidades front-end como html, css, e javascript
  
+https://rafa543.github.io/Layout-academia/
  
 ## Technology 
  
